@@ -1,0 +1,572 @@
+[
+  {
+    "id": "bass",
+    "name": "Burning and Suppression of Solids",
+    "acronym": "BASS",
+    "status": "in_psi",
+    "tier": "direct",
+    "gravity": "microgravity",
+    "phases": ["solid", "gas"],
+    "functions": ["flammability", "suppression"],
+    "fuel": "solid and gas, grouped in brief",
+    "hardware": "MSG, fan-driven flow duct",
+    "conditions": "flammability of solids such as fabrics and plastics",
+    "objective": "Test how solid materials such as fabrics and plastics burn and are suppressed in microgravity.",
+    "variables": ["material type (fabrics, plastics)"],
+    "measurements": ["flammability"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "fan-driven flow duct; rate not stated in brief" },
+      "fuelIdentity": { "stated": true, "value": "solids such as fabrics and plastics" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": true, "value": "flammability" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "bass-ii",
+    "name": "Burning and Suppression of Solids II",
+    "acronym": "BASS-II",
+    "status": "in_psi",
+    "tier": "direct",
+    "gravity": "microgravity",
+    "phases": ["solid", "gas"],
+    "functions": ["flammability", "suppression"],
+    "fuel": "solid and gas, grouped in brief",
+    "hardware": "MSG, flow duct",
+    "conditions": "flammability of solids",
+    "objective": "Examine flammability of solids in microgravity using the MSG and its flow duct.",
+    "variables": ["solid material type"],
+    "measurements": ["flammability"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "flow duct; rate not stated in brief" },
+      "fuelIdentity": { "stated": true, "value": "solids, grouped in brief" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": true, "value": "flammability" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "saffire-1",
+    "name": "Spacecraft Fire Safety Demonstration (Saffire-I)",
+    "acronym": "Saffire-I",
+    "status": "in_psi",
+    "tier": "direct",
+    "gravity": "microgravity",
+    "phases": ["solid"],
+    "functions": ["flammability"],
+    "fuel": "solid materials",
+    "hardware": "not stated in brief",
+    "conditions": "spacecraft flammability demonstration",
+    "objective": "Demonstrate spacecraft flammability with solid materials in microgravity.",
+    "variables": ["solid materials"],
+    "measurements": ["spacecraft flammability demonstration"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": true, "value": "solid materials" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": true, "value": "spacecraft flammability demonstration" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "saffire-2",
+    "name": "Spacecraft Fire Safety Demonstration (Saffire-II)",
+    "acronym": "Saffire-II",
+    "status": "in_psi",
+    "tier": "direct",
+    "gravity": "microgravity",
+    "phases": ["solid"],
+    "functions": ["flammability"],
+    "fuel": "solid materials",
+    "hardware": "not stated in brief",
+    "conditions": "spacecraft flammability demonstration",
+    "objective": "Demonstrate spacecraft flammability with solid materials in microgravity.",
+    "variables": ["solid materials"],
+    "measurements": ["spacecraft flammability demonstration"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": true, "value": "solid materials" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": true, "value": "spacecraft flammability demonstration" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "saffire-3",
+    "name": "Spacecraft Fire Safety Demonstration (Saffire-III)",
+    "acronym": "Saffire-III",
+    "status": "in_psi",
+    "tier": "direct",
+    "gravity": "microgravity",
+    "phases": ["solid"],
+    "functions": ["flammability"],
+    "fuel": "solid materials",
+    "hardware": "not stated in brief",
+    "conditions": "spacecraft flammability demonstration",
+    "objective": "Demonstrate spacecraft flammability with solid materials in microgravity.",
+    "variables": ["solid materials"],
+    "measurements": ["spacecraft flammability demonstration"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": true, "value": "solid materials" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": true, "value": "spacecraft flammability demonstration" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "same",
+    "name": "Smoke and Aerosol Measurement Experiment (SAME)",
+    "acronym": "SAME",
+    "status": "in_psi",
+    "tier": "direct",
+    "gravity": "microgravity",
+    "phases": [],
+    "functions": ["detection"],
+    "fuel": "not stated in brief",
+    "hardware": "not stated in brief",
+    "conditions": "fire detection tested in microgravity",
+    "objective": "Test fire detection in microgravity, as the challenge brief states.",
+    "variables": [],
+    "measurements": ["fire detection in microgravity"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": false, "value": "not stated in brief" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": true, "value": "fire detection in microgravity" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "same-r",
+    "name": "Smoke and Aerosol Measurement Experiment (SAME-R)",
+    "acronym": "SAME-R",
+    "status": "in_psi",
+    "tier": "direct",
+    "gravity": "microgravity",
+    "phases": [],
+    "functions": ["detection"],
+    "fuel": "not stated in brief",
+    "hardware": "not stated in brief",
+    "conditions": "fire detection tested in microgravity",
+    "objective": "Test fire detection in microgravity, as the challenge brief states.",
+    "variables": [],
+    "measurements": ["fire detection in microgravity"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": false, "value": "not stated in brief" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": true, "value": "fire detection in microgravity" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "flex",
+    "name": "Flame Extinguishment Experiment (FLEX)",
+    "acronym": "FLEX",
+    "status": "in_psi",
+    "tier": "direct",
+    "gravity": "microgravity",
+    "phases": ["liquid"],
+    "functions": ["suppression", "flammability"],
+    "fuel": "liquid droplets",
+    "hardware": "MDCA in CIR",
+    "conditions": "suppression by diluting the atmosphere with CO2 and helium",
+    "objective": "Study suppression of liquid-droplet flames by diluting the atmosphere with CO2 and helium.",
+    "variables": ["dilution with CO2", "dilution with helium"],
+    "measurements": ["suppression"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": true, "value": "liquid droplets" },
+      "fuelGeometry": { "stated": true, "value": "droplets" },
+      "measurement": { "stated": true, "value": "suppression" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "flex-2",
+    "name": "Flame Extinguishment Experiment 2 (FLEX-2)",
+    "acronym": "FLEX-2",
+    "status": "in_psi",
+    "tier": "related",
+    "gravity": "microgravity",
+    "phases": ["liquid"],
+    "functions": ["suppression"],
+    "fuel": "liquid droplets",
+    "hardware": "MDCA in CIR",
+    "conditions": "suppression, from the name only",
+    "objective": "Continue study of flame extinguishment for liquid droplets, inferred from the experiment name.",
+    "variables": [],
+    "measurements": [],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": true, "value": "liquid droplets" },
+      "fuelGeometry": { "stated": true, "value": "droplets" },
+      "measurement": { "stated": false, "value": "not stated in brief; suppression comes from the name only" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "cfi",
+    "name": "Cool Flames Investigation (CFI)",
+    "acronym": "CFI",
+    "status": "in_psi",
+    "tier": "related",
+    "gravity": "microgravity",
+    "phases": ["liquid"],
+    "functions": ["flammability", "flame-fundamentals"],
+    "fuel": "liquid droplets",
+    "hardware": "MDCA in CIR",
+    "conditions": "cool flame behavior",
+    "objective": "Study cool flame behavior of liquid droplets in microgravity.",
+    "variables": [],
+    "measurements": ["cool flame behavior"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": true, "value": "liquid droplets" },
+      "fuelGeometry": { "stated": true, "value": "droplets" },
+      "measurement": { "stated": true, "value": "cool flame behavior" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "cfi-g",
+    "name": "Cool Flames Investigation with Gases (CFI-G), part of ACME",
+    "acronym": "CFI-G",
+    "status": "in_psi",
+    "tier": "direct",
+    "gravity": "microgravity",
+    "phases": ["gas"],
+    "functions": ["oxygen-enriched", "flammability", "flame-fundamentals"],
+    "fuel": "propane in nitrogen; oxygen-nitrogen mix from a spherical burner",
+    "hardware": "ACME hardware in CIR",
+    "conditions": "oxygen-enriched flames, up to 85% oxygen",
+    "objective": "Study cool flames with gases at oxygen-enriched conditions up to 85% oxygen.",
+    "variables": ["oxygen fraction up to 85%", "propane in nitrogen", "oxygen-nitrogen mix"],
+    "measurements": ["oxygen-enriched flame behavior"],
+    "readiness": {
+      "oxygen": { "stated": true, "value": "up to 85% oxygen" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": true, "value": "propane in nitrogen" },
+      "fuelGeometry": { "stated": true, "value": "spherical burner" },
+      "measurement": { "stated": true, "value": "oxygen-enriched flame behavior" }
+    },
+    "oxygen_pct_max": 85,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "e-field",
+    "name": "Electric-Field Effects on Laminar Diffusion Flames (E-FIELD Flames), part of ACME",
+    "acronym": "E-FIELD",
+    "status": "in_psi",
+    "tier": "direct",
+    "gravity": "partial_analog",
+    "phases": ["gas"],
+    "functions": ["partial-gravity", "flame-fundamentals"],
+    "fuel": "gaseous laminar diffusion flames",
+    "hardware": "ACME hardware in CIR",
+    "conditions": "electric field mimics partial gravity; an analog, not partial-gravity data",
+    "objective": "Use an electric field to mimic partial gravity in laminar diffusion flames, as an analog only.",
+    "variables": ["electric field"],
+    "measurements": ["flame response to an electric field"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": true, "value": "gaseous laminar diffusion flames" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": true, "value": "flame response to an electric field" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "bre",
+    "name": "Burning Rate Emulator (BRE), part of ACME",
+    "acronym": "BRE",
+    "status": "in_psi",
+    "tier": "direct",
+    "gravity": "microgravity",
+    "phases": ["gas"],
+    "functions": ["flammability"],
+    "fuel": "gaseous burner, still atmosphere",
+    "hardware": "ACME hardware in CIR",
+    "conditions": "material flammability as a function of material properties",
+    "objective": "Relate material flammability to material properties using a gaseous burner in a still atmosphere.",
+    "variables": ["material properties"],
+    "measurements": ["material flammability"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "still atmosphere" },
+      "fuelIdentity": { "stated": true, "value": "gaseous burner" },
+      "fuelGeometry": { "stated": true, "value": "burner" },
+      "measurement": { "stated": true, "value": "material flammability" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "spice",
+    "name": "Smoke Point In Co-flow Experiment (SPICE)",
+    "acronym": "SPICE",
+    "status": "in_psi",
+    "tier": "related",
+    "gravity": "microgravity",
+    "phases": ["solid", "gas"],
+    "functions": ["flame-fundamentals"],
+    "fuel": "solid and gas, grouped in brief",
+    "hardware": "MSG, flow duct built for SPICE",
+    "conditions": "flame fundamentals, smoke point",
+    "objective": "Study flame fundamentals and the smoke point in microgravity.",
+    "variables": [],
+    "measurements": ["smoke point"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "flow duct; rate not stated in brief" },
+      "fuelIdentity": { "stated": true, "value": "solid and gas, grouped in brief" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": true, "value": "smoke point" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "slice",
+    "name": "Structure & Liftoff In Combustion Experiment (SLICE)",
+    "acronym": "SLICE",
+    "status": "in_psi",
+    "tier": "related",
+    "gravity": "microgravity",
+    "phases": ["solid", "gas"],
+    "functions": ["flame-fundamentals"],
+    "fuel": "solid and gas, grouped in brief",
+    "hardware": "MSG, flow duct",
+    "conditions": "flame structure and liftoff",
+    "objective": "Study flame structure and liftoff in microgravity.",
+    "variables": [],
+    "measurements": ["flame structure", "liftoff"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "flow duct; rate not stated in brief" },
+      "fuelIdentity": { "stated": true, "value": "solid and gas, grouped in brief" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": true, "value": "flame structure and liftoff" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "daft",
+    "name": "Dust and Aerosol Measurement Feasibility Test (DAFT)",
+    "acronym": "DAFT",
+    "status": "in_psi",
+    "tier": "related",
+    "gravity": "microgravity",
+    "phases": ["dust"],
+    "functions": ["detection", "dust-detection"],
+    "fuel": "not stated in brief",
+    "hardware": "one smoke-detection instrument from SAME, reused for dust",
+    "conditions": "dust detection",
+    "objective": "Test whether one smoke-detection instrument from SAME can detect dust.",
+    "variables": [],
+    "measurements": ["dust detection"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": false, "value": "not stated in brief" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": true, "value": "dust detection" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "daft-2",
+    "name": "Dust and Aerosol Measurement Feasibility Test 2 (DAFT-2)",
+    "acronym": "DAFT-2",
+    "status": "in_psi",
+    "tier": "related",
+    "gravity": "microgravity",
+    "phases": ["dust"],
+    "functions": ["detection", "dust-detection"],
+    "fuel": "not stated in brief",
+    "hardware": "one smoke-detection instrument from SAME, reused for dust",
+    "conditions": "dust detection",
+    "objective": "Test whether one smoke-detection instrument from SAME can detect dust.",
+    "variables": [],
+    "measurements": ["dust detection"],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": false, "value": "not stated in brief" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": true, "value": "dust detection" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "luci",
+    "name": "Lunar-g Combustion Investigation (LUCI)",
+    "acronym": "LUCI",
+    "status": "planned",
+    "tier": "planned",
+    "gravity": "partial",
+    "phases": [],
+    "functions": ["partial-gravity", "flammability"],
+    "fuel": "not stated in brief",
+    "hardware": "not stated in brief",
+    "conditions": "partial gravity; no PSI data yet",
+    "objective": "Plan a partial-gravity combustion investigation; no PSI data yet.",
+    "variables": [],
+    "measurements": [],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": false, "value": "not stated in brief" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": false, "value": "not stated in brief" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  },
+  {
+    "id": "fm2",
+    "name": "Flammability of Materials on the Moon (FM2)",
+    "acronym": "FM2",
+    "status": "planned",
+    "tier": "planned",
+    "gravity": "partial",
+    "phases": [],
+    "functions": ["partial-gravity", "flammability"],
+    "fuel": "not stated in brief",
+    "hardware": "not stated in brief",
+    "conditions": "flammability on the Moon; no PSI data yet",
+    "objective": "Plan a study of material flammability on the Moon; no PSI data yet.",
+    "variables": [],
+    "measurements": [],
+    "readiness": {
+      "oxygen": { "stated": false, "value": "not stated in brief" },
+      "pressure": { "stated": false, "value": "not stated in brief" },
+      "airflow": { "stated": false, "value": "not stated in brief" },
+      "fuelIdentity": { "stated": false, "value": "not stated in brief" },
+      "fuelGeometry": { "stated": false, "value": "not stated in brief" },
+      "measurement": { "stated": false, "value": "not stated in brief" }
+    },
+    "oxygen_pct_max": null,
+    "source": {
+      "section": "Project brief, section 4 (Data)",
+      "psi_url": "https://psi.nasa.gov/",
+      "verification": "named_in_brief"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "noEmit": false,
+    "outDir": "node_modules/.tmp",
+    "types": ["node"]
+  },
+  "include": ["vite.config.ts", "playwright.config.ts", "src/data/schema.ts", "src/vite-env.d.ts"]
+}
